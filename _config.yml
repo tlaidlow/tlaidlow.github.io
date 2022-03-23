@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Tristan Laidlow
 title: Dyson Research Fellow
-#email: t.laidlow15@imperial.ac.uk
+email: t.laidlow15@imperial.ac.uk
 #website: tlaidlow.github.io
 
 # Dark Mode (true/false/never)
@@ -19,9 +19,9 @@ darkmode: false
 #googlescholar_username: bmOi48IAAAAJ
 #orcid_username:  0000-0002-3487-430X
 additional_links:
-  - title: Email
-    icon: fas fa-envelope
-    url: mailto:{{t.laidlow15@imperial.ac.uk | escape}}
+#  - title: Email
+#    icon: fas fa-envelope
+#    url: mailto:{{t.laidlow15@imperial.ac.uk | escape}}
   - title: LinkedIn
     icon: fab fa-linkedin
     url: https://www.linkedin.com/in/tristan-laidlow
