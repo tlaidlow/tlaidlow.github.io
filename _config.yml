@@ -8,13 +8,33 @@ version: 2
 # Personal info
 name: Tristan Laidlow
 title: Dyson Research Fellow
-email: t.laidlow15@imperial.ac.uk
-website: tlaidlow.github.io
+#email: t.laidlow15@imperial.ac.uk
+#website: tlaidlow.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
+
+additional_links:
+  - title: email
+    icon: fas fa-envelope
+    url: mailto:t.laidlow15@imperial.ac.uk
+
+linkedin_username: tristan-laidlow
+
+additional_links:
+  - title: scholar
+    icon: fas fa-graduation-cap
+    url: https://scholar.google.com/citations?user=bmOi48IAAAAJ
+
+orcid_username:  0000-0002-3487-430X
+
+additional_links:
+  - title: cv
+    icon: fas fa-file-user
+    url: https://tlaidlow.github.io/files/cv.pdf
+
 # twitter_username: facespics
 # github_username:  sproogen
 # stackoverflow_username: "00000001"
@@ -22,21 +42,21 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: tristan-laidlow
+# linkedin_username: tristan-laidlow
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username:  0000-0002-3487-430X
+# orcid_username:  0000-0002-3487-430X
 
 # Additional icon links
-additional_links:
-  - title: itsgoingto.be
-    icon: fas fa-globe
-    url: https://www.itsgoingto.be
-  - title: scholar
-    icon: fas fa-graduation-cap
-    url: https://scholar.google.com/citations?user=bmOi48IAAAAJ
+#additional_links:
+#  - title: itsgoingto.be
+#    icon: fas fa-globe
+#    url: https://www.itsgoingto.be
+#  - title: scholar
+#    icon: fas fa-graduation-cap
+#    url: https://scholar.google.com/citations?user=bmOi48IAAAAJ
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
