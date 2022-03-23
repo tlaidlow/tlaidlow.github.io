@@ -19,9 +19,9 @@ linkedin_username: tristan-laidlow
 googlescholar_username: bmOi48IAAAAJ
 orcid_username:  0000-0002-3487-430X
 additional_links:
-  - title: email
-    icon: fas fa-envelope
-    url: mailto:t.laidlow15@imperial.ac.uk
+#  - title: email
+#    icon: fas fa-envelope
+#    url: mailto:t.laidlow15@imperial.ac.uk
   - title: cv
     icon: fas fa-file-user
     url: https://tlaidlow.github.io/files/cv.pdf
