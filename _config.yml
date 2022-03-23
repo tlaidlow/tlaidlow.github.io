@@ -20,7 +20,7 @@ googlescholar_username: bmOi48IAAAAJ
 orcid_username:  0000-0002-3487-430X
 additional_links:
   - title: cv
-    icon: fas fa-envelope
+    icon: fas fa-file
     url: https://tlaidlow.github.io/files/cv.pdf
   - title: email
     icon: fas fa-envelope
