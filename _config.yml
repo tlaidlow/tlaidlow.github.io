@@ -35,7 +35,7 @@ additional_links:
     icon: fas fa-globe
     url: https://www.itsgoingto.be
   - title: scholar
-    icon: fas graduation-cap
+    icon: fas fa-graduation-cap
     url: https://scholar.google.com/citations?user=bmOi48IAAAAJ
 
 # Google Analytics and Tag Manager
