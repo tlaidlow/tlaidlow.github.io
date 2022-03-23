@@ -35,7 +35,7 @@ additional_links:
     icon: fas fa-globe
     url: https://www.itsgoingto.be
   - title: scholar
-    icon: ai ai-google-scholar big-icon
+    icon: images/google-scholar.svg
     url: https://scholar.google.com/citations?user=bmOi48IAAAAJ
 
 # Google Analytics and Tag Manager
