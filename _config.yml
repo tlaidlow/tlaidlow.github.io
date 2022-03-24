@@ -41,12 +41,12 @@ about_profile_image: images/tristan_crop.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/).
 
-  During my PhD, I worked on making real-time dense visual SLAM more robust through inertial fusion and the use of learned depth priors under the supervision of [Dr. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan). Previously, I earned a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca).
+  During my PhD, I worked under the supervision of [Dr. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) on making real-time dense visual SLAM more robust through the fusion of inertial data and learned depth priors. Previously, I completed a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca).
 
   My current research interests are in developing algorithms that enable robots to understand and interact with their environment. To this end, my research focuses on:
     - dense 3D reconstruction with informative geometric priors (learned or parametric),
     - efficient scene segmentation using sparse semantic annotations and neural fields,
-    - robust robot manipulation, and
+    - learning robust object manipulation policies, and
     - human pose estimation for safe human-robot interaction.
 
 content:
@@ -110,8 +110,8 @@ content:
       ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
-# footer_show_references: false
-# references_title: References on request (Override references text)
+footer_show_references: false
+# references_title: 
 
 # Build settings
 remote_theme: sproogen/resume-theme
