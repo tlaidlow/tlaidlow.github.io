@@ -60,8 +60,9 @@ content:
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
             <img src="images/landscape-trees.jpg" alt="">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
-            Here are some trees.
+          <div class="col-sm-8 col-md-9 col-print-12">
+            <div class="title"> <b> Simultaneous Localisation and Mapping with Quadric Surfaces </b> </div>
+            <div class="author> Tristan Laidlow and Andrew J. Davison </div>
           </div>
         </div>
       </div>
