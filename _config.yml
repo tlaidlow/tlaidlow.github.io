@@ -49,6 +49,7 @@ about_content: | # this will include new lines to allow paragraphs
     - learning robust object manipulation policies, and
     - estimating human motion from moving cameras.
 
+#<div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
 content:
   - title: Publications
     layout: text
@@ -59,18 +60,11 @@ content:
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
             <img src="images/landscape-trees.jpg" alt="">
           </div>
-          <div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
             Here are some trees.
           </div>
         </div>
       </div>
-
-      <table>
-        <tr>
-          <td> <div class="col-sm-4"> <img src="images/landscape-trees.jpg" alt=""> </div> </td>
-          <td> some trees </td>
-        </tr>
-      </table>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
