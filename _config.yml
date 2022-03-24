@@ -64,8 +64,7 @@ content:
             <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u> and Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>arXiv preprint</em> 2022 </p> </div>
             <div class="links"> <p style="margin:0">
-              <a href="https://arxiv.org/abs/2103.12352"><mark>PDF</mark></a>
-              <a href="https://www.youtube.com/watch?v=c-zkKGArl5Y"><mark>Video</mark></a>
+              <a href="https://arxiv.org/pdf/2203.08040.pdf"><mark>PDF</mark></a>
               </p>
             </div>
           </div>
@@ -75,17 +74,161 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <video autoplay>
-              <source src="images/simstack.mp4" type="video/mp4">
-            </video>
+            <img src="images/c2f.jpg" alt="">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
-            <div class="title"> <p style="margin:0"> <b>Simultaneous Localisation and Mapping with Quadric Surfaces</b> </p> </div>
-            <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u> and Andrew J. Davison </p> </div>
-            <div class="conf"> <p style="margin:0"> <em>arXiv preprint</em> 2022 </p> </div>
+            <div class="title"> <p style="margin:0"> <b>Coarse-to-Fine Q-Attention: Efficient Learning for Visual Robotic Manipulation via Discretisation</b> </p> </div>
+            <div class="author"> <p style="margin:0"> Stephen James, Kentaro Wada, <u>Tristan Laidlow</u>, and Andrew J. Davison </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>CVPR</em> 2022 </p> </div>
             <div class="links"> <p style="margin:0">
-              <a href="https://arxiv.org/abs/2103.12352"><mark>PDF</mark></a>
-              <a href="https://www.youtube.com/watch?v=c-zkKGArl5Y"><mark>Video</mark></a>
+              <a href="https://sites.google.com/view/c2f-q-attention"><mark>Project</mark></a>
+              <a href="https://arxiv.org/pdf/2106.12534.pdf"><mark>PDF</mark></a>
+              <a href="https://github.com/stepjam/ARM"><mark>Code</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/semantic_nerf.png" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>In-Place Scene Labelling and Understanding with Implicit Scene Representation</b> </p> </div>
+            <div class="author"> <p style="margin:0"> Shuaifeng Zhi, <u>Tristan Laidlow</u>, Stefan Leutenegger, and Andrew J. Davison </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>ICCV</em> 2021 (Oral) </p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://shuaifengzhi.com/Semantic-NeRF/"><mark>Project</mark></a>
+              <a href="https://arxiv.org/pdf/2103.15875.pdf"><mark>PDF</mark></a>
+              <a href="https://www.youtube.com/watch?v=FpShWO7LVbM"><mark>Video</mark></a>
+              <a href="https://github.com/Harry-Zhi/semantic_nerf/"><mark>Code</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/simstack.png" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>SIMstack: A Generative Shape and Instance Model for Unordered Object Stacks</b> </p> </div>
+            <div class="author"> <p style="margin:0"> Zoe Landgraf, Raluca Scona, <u>Tristan Laidlow</u>, Stephen James, Stefan Leutenegger, and Andrew J. Davison </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>ICCV</em> 2021 </p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://zoelandgraf.github.io/SIMstack/"><mark>Project</mark></a>
+              <a href="https://arxiv.org/pdf/2103.16442.pdf"><mark>PDF</mark></a>
+              <a href="https://www.youtube.com/watch?v=6IruTME-EXM"><mark>Video</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/towards.gif" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>Towards the Probabilistic Fusion of Learned Priors into Standard Pipelines for 3D Reconstruction</b> </p> </div>
+            <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u>, Jan Czarnowski, Andrea Nicastro, Ronald Clark, and Stefan Leutenegger </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>ICRA</em> 2020 </p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/dyson-robotics-lab/Laidlow_ICRA2020.pdf"><mark>PDF</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/deepfactors.gif" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>DeepFactors: Real-Time Probabilistic Dense Monocular SLAM</b> </p> </div>
+            <div class="author"> <p style="margin:0"> Jan Czarnowski, <u>Tristan Laidlow</u>, Ronald Clark, and Andrew J. Davison </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>RA-L</em> 2020 </p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://arxiv.org/pdf/2001.05049.pdf"><mark>PDF</mark></a>
+              <a href="https://www.youtube.com/watch?v=htnRuGKZmZw"><mark>Video</mark></a>
+              <a href="https://github.com/jczarnowski/DeepFactors"><mark>Code</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/deepfusion.png" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions</b> </p> </div>
+            <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u>, Jan Czarnowski, and Stefan Leutenegger </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>ICRA</em> 2019 </p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://spiral.imperial.ac.uk/bitstream/10044/1/70868/4/DeepFusion_ICRA2019_CameraReady.pdf"><mark>PDF</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/meshes.gif" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>Learning Meshes for Dense Visual SLAM</b> </p> </div>
+            <div class="author"> <p style="margin:0"> Michael Bloesch, <u>Tristan Laidlow</u>, Ronald Clark, Stefan Leutenegger, and Andrew J. Davison </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>ICCV</em> 2019 </p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://openaccess.thecvf.com/content_ICCV_2019/papers/Bloesch_Learning_Meshes_for_Dense_Visual_SLAM_ICCV_2019_paper.pdf"><mark>PDF</mark></a>
+              <a href="https://www.youtube.com/watch?v=nClSHUovDfU"><mark>Video</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/rgbdi.pdf" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>Dense RGB-D-Inertial SLAM with Map Deformations</b> </p> </div>
+            <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u>, Michael Bloesch, Wenbin Li, and Stefan Leutenegger </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>IROS</em> 2017 </p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://spiral.imperial.ac.uk/bitstream/10044/1/51141/4/IROS2017_Laidlow.pdf"><mark>PDF</mark></a>
+              <a href="https://www.youtube.com/watch?v=-gUdQ0cxDh0"><mark>Video</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/primer.png" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>A Primer on the Differential Calculus of 3D Orientations</b> </p> </div>
+            <div class="author"> <p style="margin:0"> Michael Bloesch, Hannes Sommer, <u>Tristan Laidlow</u>, Michael Burri, Gabriel Nuetzi, Peter Fankhauser, Dario Bellicoso, Christian Gehring, Stefan Leutenegger, Marco Hutter, and Roland Siegwart </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>arXiv preprint</em> 2016 </p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://arxiv.org/pdf/1606.05285.pdf"><mark>PDF</mark></a>
               </p>
             </div>
           </div>
