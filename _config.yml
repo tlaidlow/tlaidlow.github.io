@@ -17,13 +17,13 @@ darkmode: false
 # Social links
 additional_links:
   - title: LinkedIn
-    icon: fas fa-linkedin
+    icon: fab fa-linkedin
     url: https://www.linkedin.com/in/tristan-laidlow
   - title: Google Scholar
-    icon: fas fa-google
+    icon: fab fa-google
     url: https://scholar.google.com/citations?user=bmOi48IAAAAJ
   - title: ORCiD
-    icon: fas fa-orcid
+    icon: fab fa-orcid
     url: https://orcid.org/0000-0002-3487-430X
   - title: CV
     icon: fas fa-file
@@ -55,7 +55,7 @@ content:
     content: |
       <table>
         <tr>
-          <td> ![Trees](images/landscape-trees.jpg "Trees") </td>
+          <td> <img src="images/landscape-trees.jpg" alt=""> </td>
           <td> some trees </td>
         </tr>
       </table>
