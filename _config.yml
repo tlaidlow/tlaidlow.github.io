@@ -67,6 +67,22 @@ content:
         </div>
       </div>
 
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="images/landscape-trees.jpg" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p><b> Simultaneous Localisation and Mapping with Quadric Surfaces </b></p> </div>
+            <div class="author"> <p> Tristan Laidlow and Andrew J. Davison </p> </div>
+            <div class="links">
+              <a href="https://arxiv.org/abs/2103.12352" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+              <a href="https://www.youtube.com/watch?v=c-zkKGArl5Y" class="btn btn-sm z-depth-0" role="button" target="_blank">Video</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
