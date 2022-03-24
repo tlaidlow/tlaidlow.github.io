@@ -203,7 +203,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/rgbdi.pdf" alt="">
+            <img src="images/rgbdi.png" alt="">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Dense RGB-D-Inertial SLAM with Map Deformations</b> </p> </div>
