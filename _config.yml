@@ -26,7 +26,7 @@ additional_links:
     icon: fab fa-orcid
     url: https://orcid.org/0000-0002-3487-430X
   - title: CV
-    icon: fas fa-file
+    icon: fab fa-file
     url: https://tlaidlow.github.io/files/cv.pdf
 
 # Google Analytics and Tag Manager
@@ -39,13 +39,15 @@ additional_links:
 about_title: Biography
 about_profile_image: images/tristan_crop.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a research fellow at the Dyson Robotics Lab at Imperial College London, supervised by Prof. Andrew Davison.
+  I am a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/).
 
-  My PhD was supervised by Dr. Stefan Leutenegger, where I worked on making dense visual SLAM more robust through inertial fusion and learned depth priors.
+  During my PhD, I worked on making real-time dense visual SLAM more robust through inertial fusion and the use of learned depth priors under the supervision of [Dr. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan). Previously, I earned a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca).
 
-  In my current work, I continue to work on SLAM as well as neural volume rendering, efficient semantic labelling, and scene decomposition with parametric shape models. I have also recently become interested in human pose estimation.
-
-  Please see below for a full list of my publications.
+  My current research interests are in developing algorithms that enable robots to understand and interact with their environment. To this end, my research focuses on:
+    - dense 3D reconstruction with informative geometric priors (learned or parametric),
+    - efficient scene segmentation using sparse semantic annotations and neural fields,
+    - robust robot manipulation, and
+    - human pose estimation for safe human-robot interaction.
 
 content:
   - title: Projects # Title for the section
