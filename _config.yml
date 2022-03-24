@@ -17,16 +17,16 @@ darkmode: false
 # Social links
 additional_links:
   - title: LinkedIn
-    icon: fab fa-linkedin
+    icon: fas fa-linkedin
     url: https://www.linkedin.com/in/tristan-laidlow
   - title: Google Scholar
-    icon: fab fa-google
+    icon: fas fa-google
     url: https://scholar.google.com/citations?user=bmOi48IAAAAJ
   - title: ORCiD
-    icon: fab fa-orcid
+    icon: fas fa-orcid
     url: https://orcid.org/0000-0002-3487-430X
   - title: CV
-    icon: fab fa-file
+    icon: fas fa-file
     url: https://tlaidlow.github.io/files/cv.pdf
 
 # Google Analytics and Tag Manager
@@ -50,6 +50,16 @@ about_content: | # this will include new lines to allow paragraphs
     - human pose estimation for safe human-robot interaction.
 
 content:
+  - title: Publications
+    layout: text
+    content: |
+      <table>
+        <tr>
+          <td> ![Trees](images/landscape-trees.jpg "Trees") </td>
+          <td> some trees </td>
+        </tr>
+      </table>
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
