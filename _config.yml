@@ -45,11 +45,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   My current research interests are in developing algorithms that enable robots to understand and interact with their environment. To this end, my research focuses on:
     - dense 3D reconstruction with informative geometric priors (learned or parametric),
-    - efficient scene segmentation using sparse semantic annotations and neural fields,
-    - learning robust object manipulation policies, and
-    - estimating human motion from moving cameras.
+    - efficient scene segmentation using sparse semantic annotations and neural fields, and
+    - learning robust object manipulation policies.
+#- estimating human motion from moving cameras.
 
-#<div class="{{ 'col-xs-12 ' }}{%- if site.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
 content:
   - title: Publications
     layout: text
@@ -61,8 +60,8 @@ content:
             <img src="images/landscape-trees.jpg" alt="">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
-            <div class="title"> <p><b> Simultaneous Localisation and Mapping with Quadric Surfaces </b></p> </div>
-            <div class="author"> Tristan Laidlow and Andrew J. Davison </div>
+            <div class="title"> <p style="margin:0"><b> Simultaneous Localisation and Mapping with Quadric Surfaces </b></p> </div>
+            <div class="author"> <p style="margin:0"> Tristan Laidlow and Andrew J. Davison </p> </div>
           </div>
         </div>
       </div>
@@ -75,9 +74,10 @@ content:
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p><b> Simultaneous Localisation and Mapping with Quadric Surfaces </b></p> </div>
             <div class="author"> <p> Tristan Laidlow and Andrew J. Davison </p> </div>
-            <div class="links">
+            <div class="links"> <p style="margin:0">
               <a href="https://arxiv.org/abs/2103.12352"><mark>PDF</mark></a>
               <a href="https://www.youtube.com/watch?v=c-zkKGArl5Y"><mark>Video</mark></a>
+              </p>
             </div>
           </div>
         </div>
