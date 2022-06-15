@@ -90,25 +90,25 @@ content:
         </div>
       </div>
 
-      <div class="container intro-container">
-        <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/ilabel.png" alt="">
-          </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
-            <div class="title"> <p style="margin:0"> <b>iLabel: Interactive Neural Scene Labelling</b> </p> </div>
-            <div class="author"> <p style="margin:0"> Shuaifeng Zhi*, Edgar Sucar*, Andre Mouton, Iain Haughton, <u>Tristan Laidlow</u>, and Andrew J. Davison </p> </div>
-            <div class="denotes"> <p style="margin:0"> (* denotes equal contribution) </p> </div>
-            <div class="conf"> <p style="margin:0"> <em>arXiv preprint</em> 2021 </p> </div>
-            <div class="links"> <p style="margin:0">
-              <a href="https://edgarsucar.github.io/ilabel/"><mark>Project</mark></a>
-              <a href="https://arxiv.org/pdf/2111.14637.pdf"><mark>PDF</mark></a>
-              <a href="https://youtu.be/bL7RZaMhRbk"><mark>Video</mark></a>
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
+#      <div class="container intro-container">
+#        <div class="row clearfix">
+#          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+#            <img src="images/ilabel.png" alt="">
+#          </div>
+#          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+#            <div class="title"> <p style="margin:0"> <b>iLabel: Interactive Neural Scene Labelling</b> </p> </div>
+#            <div class="author"> <p style="margin:0"> Shuaifeng Zhi*, Edgar Sucar*, Andre Mouton, Iain Haughton, <u>Tristan Laidlow</u>, and Andrew J. Davison </p> </div>
+#            <div class="denotes"> <p style="margin:0"> (* denotes equal contribution) </p> </div>
+#            <div class="conf"> <p style="margin:0"> <em>arXiv preprint</em> 2021 </p> </div>
+#            <div class="links"> <p style="margin:0">
+#              <a href="https://edgarsucar.github.io/ilabel/"><mark>Project</mark></a>
+#              <a href="https://arxiv.org/pdf/2111.14637.pdf"><mark>PDF</mark></a>
+#              <a href="https://youtu.be/bL7RZaMhRbk"><mark>Video</mark></a>
+#              </p>
+#            </div>
+#          </div>
+#        </div>
+#      </div>
 
       <div class="container intro-container">
         <div class="row clearfix">
