@@ -57,7 +57,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/bodyslam.png" alt="">
+            <img src="images/bodyslam.png" alt="BodySLAM">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking</b> </p> </div>
