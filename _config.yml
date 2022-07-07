@@ -62,7 +62,7 @@ content:
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking</b> </p> </div>
             <div class="author"> <p style="margin:0"> Dorian Henning, <u>Tristan Laidlow</u> and Stefan Leutenegger </p> </div>
-            <div class="conf"> <p style="margin:0"> <em>arXiv preprint</em> 2022 </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>ECCV</em> 2022 </p> </div>
             <div class="links"> <p style="margin:0">
               <a href="https://arxiv.org/pdf/2205.02301.pdf"><mark>PDF</mark></a>
               </p>
