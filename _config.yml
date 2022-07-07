@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
     - dense 3D reconstruction with informative geometric priors (learned or parametric),
     - efficient scene segmentation using sparse semantic annotations and neural fields, and
     - learning robust object manipulation policies.
-#- estimating human motion from moving cameras.
+    - estimating human motion from moving cameras.
 
 content:
   - title: Publications
