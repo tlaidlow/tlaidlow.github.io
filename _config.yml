@@ -39,7 +39,7 @@ additional_links:
 about_title: Biography
 about_profile_image: images/tristan_laidlow.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a research scientist at Boston Dynamics. Previously, I was a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/).
+  I am a Staff Research Scientist on the Atlas project at Boston Dynamics where I enable new robot behaviors using cutting-edge perception research. Previously, I was a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/).
 
   During my PhD, I worked under the supervision of [Dr. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) on making real-time dense visual SLAM more robust through the fusion of inertial data and learned depth priors. I completed a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca).
 
@@ -117,7 +117,7 @@ content:
             <div class="title"> <p style="margin:0"> <b>iLabel: Interactive Neural Scene Labelling</b> </p> </div>
             <div class="author"> <p style="margin:0"> Shuaifeng Zhi*, Edgar Sucar*, Andre Mouton, Iain Haughton, <u>Tristan Laidlow</u>, and Andrew J. Davison </p> </div>
             <div class="denotes"> <p style="margin:0"> (* denotes equal contribution) </p> </div>
-            <div class="conf"> <p style="margin:0"> <em>arXiv preprint</em> 2021 </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>RA-L</em> 2022 </p> </div>
             <div class="links"> <p style="margin:0">
               <a href="https://edgarsucar.github.io/ilabel/"><mark>Project</mark></a>
               <a href="https://arxiv.org/pdf/2111.14637.pdf"><mark>PDF</mark></a>
