@@ -57,6 +57,23 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+            <img src="" alt="">
+          </div>
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>iMODE: Real-Time Incremental Monocular Dense Mapping Using Neural Field</b> </p> </div>
+            <div class="author"> <p style="margin:0"> Hidenobu Matsuki, Edgar Sucar, <u>Tristan Laidlow</u>, Kentaro Wada, Raluca Scona, Andrew J. Davison </p> </div>
+            <div class="conf"> <p style="margin:0"> <em>ICRA</em> 2023 (Best Navigation Paper Award Finalist)</p> </div>
+            <div class="links"> <p style="margin:0">
+              <a href="https://ieeexplore.ieee.org/document/10161538"><mark>Paper</mark></a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="container intro-container">
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
             <img src="images/bodyslam.png" alt="">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
