@@ -39,9 +39,9 @@ additional_links:
 about_title: Biography
 about_profile_image: images/tristan_laidlow.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Senior Staff Research Scientist on the Atlas project at Boston Dynamics where I enable new robot behaviors using cutting-edge perception research. Previously, I was a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/).
-
-  During my PhD, I worked under the supervision of [Dr. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) on making real-time dense visual SLAM more robust through the fusion of inertial data and learned depth priors. I completed a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca).
+  I am a Senior Staff Research Scientist on the Atlas project at Boston Dynamics, where I take state-of-the-art perception algorithms and use them to enable new robot behaviors. In particular, my work is focused on combining semantic and geometric information so robots can understand and perform tasks in their environments. I am involved in the entire Atlas perception stack, from calibration and camera drivers to developing and maintaining cutting-edge machine learning models.
+  
+  Previously, I was a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/). During my PhD, I worked under the supervision of [Dr. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) on making real-time dense visual SLAM more robust through the fusion of inertial data and learned depth priors. I completed a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca).
 
 #  My current research interests are in developing algorithms that enable robots to understand and interact with their environment. To this end, my research focuses on:
 #    - dense 3D reconstruction with informative geometric priors (learned or parametric),
