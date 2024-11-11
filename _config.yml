@@ -57,7 +57,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="" alt="">
+            <img src="images/imode.png" alt="iMODE reconstructions">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>iMODE: Real-Time Incremental Monocular Dense Mapping Using Neural Field</b> </p> </div>
@@ -74,7 +74,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/bodyslam.png" alt="">
+            <img src="images/bodyslam.png" alt="BodySLAM pipeline">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking</b> </p> </div>
@@ -92,7 +92,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/quadrics.png" alt="">
+            <img src="images/quadrics.png" alt="quadrics-based reconstruction">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Simultaneous Localisation and Mapping with Quadric Surfaces</b> </p> </div>
@@ -109,7 +109,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/c2f.jpg" alt="">
+            <img src="images/c2f.jpg" alt="Robot arm using C2F">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Coarse-to-Fine Q-Attention: Efficient Learning for Visual Robotic Manipulation via Discretisation</b> </p> </div>
@@ -128,7 +128,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/ilabel.png" alt="">
+            <img src="images/ilabel.png" alt="iLabel reconstruction">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>iLabel: Interactive Neural Scene Labelling</b> </p> </div>
@@ -148,7 +148,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/semantic_nerf.png" alt="">
+            <img src="images/semantic_nerf.png" alt="SemanticNeRF pipeline">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>In-Place Scene Labelling and Understanding with Implicit Scene Representation</b> </p> </div>
@@ -168,7 +168,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/simstack.png" alt="">
+            <img src="images/simstack.png" alt="SIMstack">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>SIMstack: A Generative Shape and Instance Model for Unordered Object Stacks</b> </p> </div>
@@ -187,7 +187,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/towards.gif" alt="">
+            <img src="images/towards.gif" alt="Learned and geometric probability distributions">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Towards the Probabilistic Fusion of Learned Priors into Standard Pipelines for 3D Reconstruction</b> </p> </div>
@@ -204,7 +204,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/deepfactors.gif" alt="">
+            <img src="images/deepfactors.gif" alt="DeepFactors">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>DeepFactors: Real-Time Probabilistic Dense Monocular SLAM</b> </p> </div>
@@ -223,7 +223,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/deepfusion.png" alt="">
+            <img src="images/deepfusion.png" alt="DeepFusion">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions</b> </p> </div>
@@ -240,7 +240,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/meshes.gif" alt="">
+            <img src="images/meshes.gif" alt="Learned Mesh Reconstruction">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Learning Meshes for Dense Visual SLAM</b> </p> </div>
@@ -258,7 +258,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/rgbdi.png" alt="">
+            <img src="images/rgbdi.png" alt="RGB-D-inertial reconstruction">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Dense RGB-D-Inertial SLAM with Map Deformations</b> </p> </div>
@@ -276,7 +276,7 @@ content:
       <div class="container intro-container">
         <div class="row clearfix">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
-            <img src="images/primer.png" alt="">
+            <img src="images/primer.png" alt="primer">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>A Primer on the Differential Calculus of 3D Orientations</b> </p> </div>
