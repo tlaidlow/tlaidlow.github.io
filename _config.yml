@@ -41,6 +41,13 @@ about_content: | # this will include new lines to allow paragraphs
   
   Previously, I was a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/). During my PhD, I worked under the supervision of [Dr. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) on making real-time dense visual SLAM more robust through the fusion of inertial data and learned depth priors. I completed a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca).
 content:
+  - title: Videos
+    layout: list
+    content:
+      - layout: left
+        title: Test
+        caption: Test2
+        link: https://www.youtube.com/watch?v=oe1dke3Cf7I
   - title: Publications
     layout: text
     content: |
