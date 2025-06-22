@@ -27,12 +27,6 @@ additional_links:
     icon: fas fa-file
     url: https://tlaidlow.github.io/files/TristanLaidlowCVWeb.pdf
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 about_title: Biography
 about_profile_image: images/tristan_laidlow.jpg
@@ -40,20 +34,23 @@ about_content: | # this will include new lines to allow paragraphs
   I am the Research Lead for SpatialAI on the Atlas project at Boston Dynamics, where I take state-of-the-art perception algorithms and use them to enable new autonomous robot behaviors. In particular, my work is focused on combining semantic and geometric information (from both model-based and data-driven sources) so robots can understand and perform tasks in their environments. I am involved in the entire Atlas perception stack, from calibration and camera drivers to developing and maintaining cutting-edge machine learning models.
   
   Previously, I was a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/). During my PhD, I worked under the supervision of [Dr. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) on making real-time dense visual SLAM more robust through the fusion of inertial data and learned depth priors. I completed a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca).
+
+# Video Section
 content:
   - title: Videos
     layout: text
     content:
       <div class="video container">
-        <div class="video embedding">
+        <div class="col-xs-12 col-sm-4 col-md-3 no-print">
           <iframe width="420" height="315" src="https://www.youtube.com/embed/oe1dke3Cf7I"></iframe>
         </div>
         <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
           <div class="title"> <p style="margin:0"> <b>Perception and Adaptability | Inside the Lab with Atlas</b> </p> </div>
-          <div class="description"> <p style="margin:0"> Thi
+          <div class="description"> <p style="margin:0"> This is the description </div>
         </div>
       </div>
-      <p style="text-align:justify">This is a video.</p>
+
+# Publications Section
   - title: Publications
     layout: text
     content: |
