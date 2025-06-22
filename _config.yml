@@ -42,7 +42,7 @@ content:
     content:
       <div class="video container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4 no-print">
+          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 no-print">
             <iframe width="100%" src="https://www.youtube.com/embed/oe1dke3Cf7I" aspect-ratio="16 / 9"></iframe>
           </div>
           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 col-print-12 content">
