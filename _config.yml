@@ -47,7 +47,7 @@ content:
           </div>
           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Perception and Adaptability | Inside the Lab with Atlas</b> </p> </div>
-            <div class="description"> <p style="margin:0"> This is the description </p> </div>
+            <div class="description"> <p style="margin:0"> I was interviewed for this behind-the-scenes video at Boston Dynamics. It showcases the work our team has been up to for the last year or so, demonstrating how our machine learning and real-time perception systems enable Atlas to perform accurate and robust manipulation tasks in a factory-like environment. </p> </div>
           </div>
         </div>
       </div>
