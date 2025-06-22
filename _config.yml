@@ -41,10 +41,10 @@ content:
     layout: text
     content:
       <div class="video container">
-        <div style="width: 100%; max-width: 420px;">
+        <div class="col-xs-12 col-sm-12 col-md-12 no-print">
           <iframe width="100%" src="https://www.youtube.com/embed/oe1dke3Cf7I"></iframe>
         </div>
-        <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-print-12 content">
           <div class="title"> <p style="margin:0"> <b>Perception and Adaptability | Inside the Lab with Atlas</b> </p> </div>
           <div class="description"> <p style="margin:0"> This is the description </div>
         </div>
