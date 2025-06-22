@@ -41,7 +41,7 @@ content:
     layout: text
     content:
       <div class="video container">
-        <div style="width: 100%; max-width: 420px" class="col-xs-12 col-sm-4 col-md-3 no-print">
+        <div style="width: 100%; max-width: 420px;">
           <iframe width="100%" src="https://www.youtube.com/embed/oe1dke3Cf7I"></iframe>
         </div>
         <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
