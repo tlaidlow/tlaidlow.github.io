@@ -59,6 +59,24 @@ content:
             <div class="description"> <p style="margin:0">A technical demonstration of the type of robot behaviors our team is working on. After receiving an input list of bin locations, Atlas autonomously moves engine covers between supplier containers and a mobile sequencing dolly in the specified order. Atlas is using a learned vision model I designed to detect and localize the environment fixtures and individual bins.</p> </div>
           </div>
         </div>
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 no-print">
+            <iframe width="100%" src="https://www.youtube.com/embed/LeeiN9smjjY" aspect-ratio="16 / 9"></iframe>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>HD Atlas Manipulates</b> </p> </div>
+            <div class="description"> <p style="margin:0">This video highlights some of the very early object detection and localization work I was involved with on HD Atlas. Most of the techniques we were using at this stage were very basic, but taught us a lot about how to manipulate heavy and difficult-to-perceive objects.</p> </div>
+          </div>
+        </div>
+        <div class="row clearfix">
+          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 no-print">
+            <iframe width="100%" src="https://www.youtube.com/embed/-e1_QhJ1EhQ" aspect-ratio="16 / 9"></iframe>
+          </div>
+          <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 col-print-12 content">
+            <div class="title"> <p style="margin:0"> <b>Atlas Gets a Grip</b> </p> </div>
+            <div class="description"> <p style="margin:0">The very first Boston Dynamics video I got to help make! It was very stressful but also a lot of fun! </p> </div>
+          </div>
+        </div>
       </div>
 
 # Publications Section
