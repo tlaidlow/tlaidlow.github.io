@@ -74,7 +74,7 @@ content:
           </div>
           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Atlas Gets a Grip</b> </p> </div>
-            <div class="description"> <p style="margin:0">The very first Boston Dynamics video I got to help make! It was very stressful but also a lot of fun! </p> </div>
+            <div class="description"> <p style="margin:0">The very first Boston Dynamics video I got to help make (I mostly worked on the object localization)! It was very stressful but also a lot of fun! </p> </div>
           </div>
         </div>
       </div>
@@ -86,10 +86,10 @@ content:
 
       <div class="container intro-container">
         <div class="row h-100 d-flex flex-column clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print flex-grow-1">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print flex-grow-1">
             <img src="images/imode.png" alt="iMODE reconstructions">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content flex-grow-1">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content flex-grow-1">
             <div class="title"> <p style="margin:0"> <b>iMODE: Real-Time Incremental Monocular Dense Mapping Using Neural Field</b> </p> </div>
             <div class="author"> <p style="margin:0"> Hidenobu Matsuki, Edgar Sucar, <u>Tristan Laidlow</u>, Kentaro Wada, Raluca Scona, Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>ICRA</em> 2023 (Best Navigation Paper Award Finalist)</p> </div>
@@ -103,10 +103,10 @@ content:
       
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/bodyslam.png" alt="BodySLAM pipeline">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>BodySLAM: Joint Camera Localisation, Mapping, and Human Motion Tracking</b> </p> </div>
             <div class="author"> <p style="margin:0"> Dorian Henning, <u>Tristan Laidlow</u> and Stefan Leutenegger </p> </div>
             <div class="conf"> <p style="margin:0"> <em>ECCV</em> 2022 </p> </div>
@@ -121,10 +121,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/quadrics.png" alt="quadrics-based reconstruction">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Simultaneous Localisation and Mapping with Quadric Surfaces</b> </p> </div>
             <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u> and Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>3DV</em> 2022 </p> </div>
@@ -138,10 +138,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/c2f.jpg" alt="Robot arm using C2F">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Coarse-to-Fine Q-Attention: Efficient Learning for Visual Robotic Manipulation via Discretisation</b> </p> </div>
             <div class="author"> <p style="margin:0"> Stephen James, Kentaro Wada, <u>Tristan Laidlow</u>, and Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>CVPR</em> 2022 (Oral) </p> </div>
@@ -157,10 +157,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/ilabel.png" alt="iLabel reconstruction">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>iLabel: Interactive Neural Scene Labelling</b> </p> </div>
             <div class="author"> <p style="margin:0"> Shuaifeng Zhi*, Edgar Sucar*, Andre Mouton, Iain Haughton, <u>Tristan Laidlow</u>, and Andrew J. Davison </p> </div>
             <div class="denotes"> <p style="margin:0"> (* denotes equal contribution) </p> </div>
@@ -177,10 +177,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/semantic_nerf.png" alt="SemanticNeRF pipeline">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>In-Place Scene Labelling and Understanding with Implicit Scene Representation</b> </p> </div>
             <div class="author"> <p style="margin:0"> Shuaifeng Zhi, <u>Tristan Laidlow</u>, Stefan Leutenegger, and Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>ICCV</em> 2021 (Oral) </p> </div>
@@ -197,10 +197,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/simstack.png" alt="SIMstack">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>SIMstack: A Generative Shape and Instance Model for Unordered Object Stacks</b> </p> </div>
             <div class="author"> <p style="margin:0"> Zoe Landgraf, Raluca Scona, <u>Tristan Laidlow</u>, Stephen James, Stefan Leutenegger, and Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>ICCV</em> 2021 </p> </div>
@@ -216,10 +216,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/towards.gif" alt="Learned and geometric probability distributions">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Towards the Probabilistic Fusion of Learned Priors into Standard Pipelines for 3D Reconstruction</b> </p> </div>
             <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u>, Jan Czarnowski, Andrea Nicastro, Ronald Clark, and Stefan Leutenegger </p> </div>
             <div class="conf"> <p style="margin:0"> <em>ICRA</em> 2020 </p> </div>
@@ -233,10 +233,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/deepfactors.gif" alt="DeepFactors">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>DeepFactors: Real-Time Probabilistic Dense Monocular SLAM</b> </p> </div>
             <div class="author"> <p style="margin:0"> Jan Czarnowski, <u>Tristan Laidlow</u>, Ronald Clark, and Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>RA-L</em> 2020 </p> </div>
@@ -252,10 +252,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/deepfusion.png" alt="DeepFusion">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>DeepFusion: Real-Time Dense 3D Reconstruction for Monocular SLAM using Single-View Depth and Gradient Predictions</b> </p> </div>
             <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u>, Jan Czarnowski, and Stefan Leutenegger </p> </div>
             <div class="conf"> <p style="margin:0"> <em>ICRA</em> 2019 </p> </div>
@@ -269,10 +269,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/meshes.gif" alt="Learned Mesh Reconstruction">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Learning Meshes for Dense Visual SLAM</b> </p> </div>
             <div class="author"> <p style="margin:0"> Michael Bloesch, <u>Tristan Laidlow</u>, Ronald Clark, Stefan Leutenegger, and Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>ICCV</em> 2019 </p> </div>
@@ -287,10 +287,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/rgbdi.png" alt="RGB-D-inertial reconstruction">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Dense RGB-D-Inertial SLAM with Map Deformations</b> </p> </div>
             <div class="author"> <p style="margin:0"> <u>Tristan Laidlow</u>, Michael Bloesch, Wenbin Li, and Stefan Leutenegger </p> </div>
             <div class="conf"> <p style="margin:0"> <em>IROS</em> 2017 </p> </div>
@@ -305,10 +305,10 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+          <div class="col-xs-12 col-sm-4 col-md-4 no-print">
             <img src="images/primer.png" alt="primer">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-8 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>A Primer on the Differential Calculus of 3D Orientations</b> </p> </div>
             <div class="author"> <p style="margin:0"> Michael Bloesch, Hannes Sommer, <u>Tristan Laidlow</u>, Michael Burri, Gabriel Nuetzi, Peter Fankhauser, Dario Bellicoso, Christian Gehring, Stefan Leutenegger, Marco Hutter, and Roland Siegwart </p> </div>
             <div class="conf"> <p style="margin:0"> <em>arXiv preprint</em> 2016 </p> </div>
