@@ -59,7 +59,7 @@ content:
 
       <div class="container intro-container">
         <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print pub-row">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print h-100 d-flex flex-column">
             <img src="images/imode.png" alt="iMODE reconstructions">
           </div>
           <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
