@@ -58,7 +58,7 @@ content:
     content: |
 
       <div class="container intro-container">
-        <div class="row pub-row clearfix">
+        <div class="row pub-row">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
             <img src="images/imode.png" alt="iMODE reconstructions">
           </div>
@@ -75,7 +75,7 @@ content:
       </div>
       
       <div class="container intro-container">
-        <div class="row clearfix">
+        <div class="row pub-row">
           <div class="col-xs-12 col-sm-4 col-md-3 no-print">
             <img src="images/bodyslam.png" alt="BodySLAM pipeline">
           </div>
