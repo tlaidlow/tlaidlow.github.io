@@ -58,11 +58,11 @@ content:
     content: |
 
       <div class="container intro-container">
-        <div class="row clearfix">
-          <div class="col-xs-12 col-sm-4 col-md-3 no-print h-100 d-flex flex-column">
+        <div class="row h-100 d-flex flex-column clearfix">
+          <div class="col-xs-12 col-sm-4 col-md-3 no-print flex-grow-1">
             <img src="images/imode.png" alt="iMODE reconstructions">
           </div>
-          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content">
+          <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 content flex-grow-1">
             <div class="title"> <p style="margin:0"> <b>iMODE: Real-Time Incremental Monocular Dense Mapping Using Neural Field</b> </p> </div>
             <div class="author"> <p style="margin:0"> Hidenobu Matsuki, Edgar Sucar, <u>Tristan Laidlow</u>, Kentaro Wada, Raluca Scona, Andrew J. Davison </p> </div>
             <div class="conf"> <p style="margin:0"> <em>ICRA</em> 2023 (Best Navigation Paper Award Finalist)</p> </div>
