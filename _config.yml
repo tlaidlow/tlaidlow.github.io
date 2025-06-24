@@ -56,7 +56,7 @@ content:
           </div>
           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Atlas Goes Hands On</b> </p> </div>
-            <div class="description"> <p style="margin:0">A technical demonstration of the type of robot behaviors our team is working on. After receiving an input list of bin locations, Atlas autonomously moves engine covers between supplier containers and a mobile sequencing dolly in the specified order. Atlas is using a learned vision model I designed to detect and localize the environment fixtures and individual bins.</p> </div>
+            <div class="description"> <p style="margin:0">A technical demonstration of the type of robot behaviors our team is working on. After receiving an input list of bin locations, Atlas autonomously moves engine covers between supplier containers and a mobile sequencing dolly in the specified order. Atlas is using a learned vision model I designed to detect and localize the fixtures and individual bins in the environment.</p> </div>
           </div>
         </div>
         <div class="row clearfix">
