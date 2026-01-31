@@ -33,7 +33,7 @@ about_profile_image: images/tristan_laidlow.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Senior Research Scientist and Lead with over a decade of experience at the frontier of Embodied AI and Spatial Intelligence. I am currently at the [Robotics and AI Institute](https://rai-inst.com), architecting multimodal perception models to power next-generation, general-purpose robotic systems. Previously, as Research Lead for Spatial AI on the Atlas (humanoid) project at [Boston Dynamics](https://bostondynamics.com), I pioneered autonomous behaviors by integrating state-of-the-art perception into real-world control loops. My work focuses on the synthesis of semantic, geometric, and proprioceptive information, enabling general-purpose autonomy in unstructured environments. Throughout my career, I have consistently contributed to all aspects of the perception stack, from calibration and camera drivers to developing and maintaining cutting-edge machine learning models.
   
-  I was a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/). During my PhD, I worked under the supervision of [Prof. Dr. Stefan Leutenegger](https://mavt.ethz.ch/people/person-detail.MTEyOTE0.TGlzdC8xMzc1LC0xNzA2OTc4MDE3.html) on making real-time dense visual SLAM more robust through the fusion of inertial data and learned depth priors. I completed a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca), where my thesis project was supervised by [Prof. Dr. Angela Schoellig](https://www.dynsyslab.org/prof-angela-schoellig/).
+  Previously, I was a research fellow in the [Dyson Robotics Lab](https://www.imperial.ac.uk/dyson-robotics-lab) with [Prof. Andrew Davison](https://www.doc.ic.ac.uk/~ajd/) at [Imperial College London](https://www.imperial.ac.uk/). During my PhD, I worked under the supervision of [Prof. Dr. Stefan Leutenegger](https://mavt.ethz.ch/people/person-detail.MTEyOTE0.TGlzdC8xMzc1LC0xNzA2OTc4MDE3.html) on making real-time dense visual SLAM more robust through the fusion of inertial data and learned depth priors. I completed a bachelor's degree in aerospace engineering from the [University of Toronto](https://www.utoronto.ca), where my thesis project was supervised by [Prof. Dr. Angela Schoellig](https://www.dynsyslab.org/prof-angela-schoellig/).
 
 # Video Section
 content:
@@ -47,7 +47,7 @@ content:
           </div>
           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Perception and Adaptability | Inside the Lab with Atlas</b> </p> </div>
-            <div class="description"> <p style="margin:0"> I was interviewed for this behind-the-scenes video at Boston Dynamics. It showcases the work our team had been up to for most of 2024, demonstrating how our machine learning and real-time perception systems enable Atlas to perform accurate and robust manipulation tasks in a factory-like environment. </p> </div>
+            <div class="description"> <p style="margin:0"> I was interviewed for this behind-the-scenes video at Boston Dynamics. It showcases the work our team had been up to for most of 2024 and the beginning of 2025, demonstrating how our machine learning and real-time perception systems enable Atlas to perform accurate and robust manipulation tasks in a factory-like environment. </p> </div>
           </div>
         </div>
         <div class="row clearfix">
@@ -56,7 +56,7 @@ content:
           </div>
           <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 col-xxl-6 col-print-12 content">
             <div class="title"> <p style="margin:0"> <b>Atlas Goes Hands On</b> </p> </div>
-            <div class="description"> <p style="margin:0">A technical demonstration of the type of robot behaviors our team is worked on at Boston Dynamics. After receiving an input list of bin locations, Atlas autonomously moves engine covers between supplier containers and a mobile sequencing dolly in the specified order. Atlas is using a learned vision model I designed to detect and localize the fixtures and individual bins in the environment.</p> </div>
+            <div class="description"> <p style="margin:0">A technical demonstration of the type of robot behaviors our team worked on at Boston Dynamics. After receiving an input list of bin locations, Atlas autonomously moves engine covers between supplier containers and a mobile sequencing dolly in the specified order. Atlas is using a learned vision model I designed to detect and localize the fixtures and individual bins in the environment.</p> </div>
           </div>
         </div>
         <div class="row clearfix">
